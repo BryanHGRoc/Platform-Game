@@ -2,7 +2,7 @@
 Jogo de pataforma da aula de Unity
 
 
-<H2> Segue o link para o arquivo do jogo do Unity(versão 2022.3.9f1 no Google drive:https://drive.google.com/drive/folders/1Q4RqiTv3513k5H0c4KTlBVQxSpWLhmf7?usp=sharing </H2>
+<H2> Segue o link para o arquivo do jogo do Unity de Bryan e Fernanda(versão 2022.3.9f1 no Google drive:https://drive.google.com/drive/folders/1Q4RqiTv3513k5H0c4KTlBVQxSpWLhmf7?usp=sharing </H2>
 
 <br></br>
 
